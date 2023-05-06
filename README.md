@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm talha</h1>
 
 📝 I am currently working on my TUBITAK 2209-A project and undergraduate graduation project<br>
@@ -6,13 +5,13 @@
 💬 You can contact me about Engineering Undergraduate Courses, Python Software Language and Project Management<br>
 
 
-<h2 align="center">🌐 Socials:</h2>
+<h1 align="center">🌐 Socials:</h1>
 
 [![](https://visitcount.itsvg.in/api?id=talhaturac&icon=0&color=6)](https://visitcount.itsvg.in)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/talhaturac_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/talhaturacturk) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/talhaturacturk) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@talhaturacturk)
 
 
- 💻 Tech Stack:
+ <h1 align="center">💻 Tech Stack:</h1>
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
@@ -28,11 +27,11 @@
 ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
 
 
- 📊 GitHub Stats:
+ <h1 align="center">📊 GitHub Stats:</h1> 
 ![](https://github-readme-stats.vercel.app/api?username=talhaturac&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=talhaturac&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
- ✍️ Random Dev Quote
+  <h1 align="center">✍️ Random Dev Quote</h1> 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
