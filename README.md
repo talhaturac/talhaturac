@@ -1,8 +1,8 @@
 <h1 align="center">Hi ✌🏻 Welcome to My World</h1>
 
-<h2 align="center">📝  I am currently working on my TUBITAK 2209-A project and undergraduate graduation project</h2><br>
-<h2 align="center">👨🏻‍💻  I am currently learning LIDAR technology and Power Electronics</h2><br>
-<h2 align="center">💬  You can contact me about Engineering Undergraduate Courses, Python Software Language and Project Management</h2><br>
+<h3 align="center">📝  I am currently working on my TUBITAK 2209-A project and undergraduate graduation project<br>👨🏻‍💻  I am currently learning LIDAR technology and Power Electronics<br>💬  You can contact me about Engineering Undergraduate Courses, Python Software Language and Project Management</h3><br>
+<h3 align="center">👨🏻‍💻  I am currently learning LIDAR technology and Power Electronics</h3><br>
+<h3 align="center">💬  You can contact me about Engineering Undergraduate Courses, Python Software Language and Project Management</h3><br>
 <br>
 
 
