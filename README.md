@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm talha</h1>
+<h0 align="center">Hi 👋, I'm talha</h0>
 
 📝 I am currently working on my TUBITAK 2209-A project and undergraduate graduation project<br>
 👨🏻‍💻 I am currently learning LIDAR technology and Power Electronics<br>
