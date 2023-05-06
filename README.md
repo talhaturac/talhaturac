@@ -1,11 +1,13 @@
 <h1 align="center">Hi ✌🏻 Welcome to My World</h1>
 
 <h3 align="center">👨🏻‍💻  I am currently learning LIDAR technology and Power Electronics<br>📝  I am currently working on my TUBITAK 2209-A project and undergraduate graduation project<br>💬  You can contact me about Engineering Undergraduate Courses, Python and Project Management</h3><br>
-<br>
 
 <h1 align="center">🌐 Socials:</h1>
 <h3 align="center">
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/talhaturac_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/talhaturacturk) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/talhaturacturk) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@talhaturacturk)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/talhaturac_) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/talhaturacturk) 
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/talhaturacturk) 
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@talhaturacturk)
 <br/>
 [![](https://visitcount.itsvg.in/api?id=talhaturac&icon=0&color=6)](https://visitcount.itsvg.in)
 <br/>
