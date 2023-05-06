@@ -1,6 +1,5 @@
 
 <h1 align="center">Hi 👋, I'm TALHA</h1>
-<div align="center">
 
 📝 I am currently working on my TUBITAK 2209-A project and undergraduate graduation project<br>
 👨🏻‍💻 I am currently learning LIDAR technology and Power Electronics<br>
