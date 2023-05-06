@@ -12,6 +12,7 @@
 
 
  <h1 align="center">💻 Tech Stack:</h1>
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
@@ -28,10 +29,12 @@
 
 
  <h1 align="center">📊 GitHub Stats:</h1> 
+
 ![](https://github-readme-stats.vercel.app/api?username=talhaturac&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=talhaturac&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
   <h1 align="center">✍️ Random Dev Quote</h1> 
+  
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
