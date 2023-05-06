@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm talha</h1>
+<h1 align="center">Hi ✌🏻 Welcome to My World</h1>
 
-📝 I am currently working on my TUBITAK 2209-A project and undergraduate graduation project<br>
-👨🏻‍💻 I am currently learning LIDAR technology and Power Electronics<br>
-💬 You can contact me about Engineering Undergraduate Courses, Python Software Language and Project Management<br>
+📝  I am currently working on my TUBITAK 2209-A project and undergraduate graduation project<br>
+👨🏻‍💻  I am currently learning LIDAR technology and Power Electronics<br>
+💬  You can contact me about Engineering Undergraduate Courses, Python Software Language and Project Management<br>
 <br/>
 <br/>
 
