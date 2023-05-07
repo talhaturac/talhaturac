@@ -2,6 +2,7 @@
 
 <h3 align="center">🟣  I am currently learning LIDAR technology and Power Electronics<br>🟣  I am currently working on my TUBITAK 2209-A project and undergraduate graduation project<br>🟣  You can contact me about Engineering Undergraduate Courses, Python and Project Management</h3><br>
 
+
 <h1 align="center">💭 Contact Me 💭</h1>
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/talhaturac_) 
@@ -37,7 +38,7 @@
 [![](https://visitcount.itsvg.in/api?id=talhaturac&icon=0&color=6)](https://visitcount.itsvg.in)<br/><br>
 <br>
 
- <h1 align="center">✒️ Random Dev Quote ✒️</h1><br><
+ <h1 align="center">✒️ Random Dev Quote ✒️</h1><br>
   
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 <br><br>
