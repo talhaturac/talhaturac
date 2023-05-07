@@ -27,18 +27,18 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
 ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
 <br/>
-<br/><br><br>
+<br/><br><br><br>
 
 
-<h1 align="center">⚡️ GitHub Stats ⚡️</h1> 
+<h1 align="center">⚡️ GitHub Stats ⚡️</h1><br>
 
 ![](https://github-readme-stats.vercel.app/api?username=talhaturac&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false)<br/><br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=talhaturac&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/><br>
 [![](https://visitcount.itsvg.in/api?id=talhaturac&icon=0&color=6)](https://visitcount.itsvg.in)<br/><br>
 <br>
 
- <h1 align="center">✒️ Random Dev Quote ✒️</h1> 
+ <h1 align="center">✒️ Random Dev Quote ✒️</h1><br><br> 
   
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
+<br><br>
 ---
