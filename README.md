@@ -9,7 +9,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/talhaturacturk) 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@talhaturacturk)
 <br/>
-<br>
+<br><br>
 
 <h1 align="center">💻 Digital Skills 💻</h1>
 
@@ -27,7 +27,7 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
 ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
 <br/>
-<br/><br><br><br>
+<br/><br><br>
 
 
 <h1 align="center">⚡️ GitHub Stats ⚡️</h1><br>
@@ -37,7 +37,7 @@
 [![](https://visitcount.itsvg.in/api?id=talhaturac&icon=0&color=6)](https://visitcount.itsvg.in)<br/><br>
 <br>
 
- <h1 align="center">✒️ Random Dev Quote ✒️</h1><br><br> 
+ <h1 align="center">✒️ Random Dev Quote ✒️</h1><br><
   
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 <br><br>
