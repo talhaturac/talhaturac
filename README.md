@@ -1,6 +1,6 @@
 <h1 align="center">Hi ✌🏻 Welcome to My World 👨🏻‍💻</h1>
 
-<h3 align="center">🟣  I am currently learning LIDAR technology and Power Electronics<br>🟣  I am currently working on my TUBITAK 2209-A project and undergraduate graduation project<br>🟣  You can contact me about Engineering Undergraduate Courses, Python and Project Management</h3><br><br>
+<h3 align="center">🟣  I am currently learning Embedded Software and Power Electronics<br>🟣  I have past and ongoing experience working on Machine Learning, Data Science and AI Software technologies.<br>🟣  You can contact me about Engineering Undergraduate Courses, Python and Project Management</h3><br><br>
 
 
 <h1 align="center">💭 Contact Me 💭</h1>
