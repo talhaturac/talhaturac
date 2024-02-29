@@ -9,7 +9,7 @@
 <a href="https://linkedin.com/in/talhaturacturk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="talhaturacturk" height="40" width="50" /></a>
 <a href="https://instagram.com/talhaturac_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="talhaturac_" height="40" width="50" /></a>
 <a href="https://www.youtube.com/channel/UCh9FrNTKAQ1VYvTE2cSFAwA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="talhaturacturk" height="40" width="50" /></a>
- <a href="https://stackoverflow.com/users/talha turaç türk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="talha turaç türk" height="30" width="40" /></a>
+ <a href="https://stackoverflow.com/users/23502475/talha-tura%c3%a7-t%c3%bcrk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="talha turaç türk" height="30" width="40" /></a>
 </p>
 
 <br><br>
