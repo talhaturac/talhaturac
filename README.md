@@ -1,6 +1,6 @@
 <h1 align="center">Hi ✌🏻 Welcome to My World 👨🏻‍💻</h1>
 
-<h3 align="center">🟣  I am currently learning Embedded Software and Power Electronics<br>🟣  I have experience working on Machine Learning, Data Science and AI Software technologies<br>🟣  You can contact me about Engineering Undergraduate Courses, Python and Project Management</h3><br><br>
+<h3 align="center">🟣  I am currently working on Embedded Software Development and Test Algorithms Development.<br>🟣  I have experience working on Machine Learning, Data Science and AI Software technologies<br>🟣  You can contact me about Engineering Undergraduate Courses, AI Projects and Software Developments</h3><br><br>
 
 
 <h1 align="center">💭 Contact Me 💭</h1>
